@@ -425,3 +425,5 @@ for(i = 0; i < users.length; i ++){
 /*
   The activity we just did is very much how data works in 'the real world'.
 */
+
+console.log("If you are reading this, i could not finish due to the fact that my jasmine crashed and wouldn't allow me to check this practice.js progress, but everything here is what i had done before the crash, some of it may be incorrect and i was not able to check and correct it, so please have mercy on my soul, thanks :)")
